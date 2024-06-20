@@ -34,6 +34,6 @@ npm run start
 \*pastikan udah install node js
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [Zonalabs](https://github.com/Zonalabs)
+twitter : @Arsyruldoft
+telegram : @muhnanku
